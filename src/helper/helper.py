@@ -10,7 +10,13 @@ def parallelize_dataframe(df: pd.DataFrame, func: object) -> pd.DataFrame:
         df: Pandas Dataframe to process
         func: Function containing the df processing code
               Hint: Use iterrows within that function
-              The function needs that interface:
+              Example:
+                def function_2_call(df: pd.DataFrame) -> pd.DataFrame:
+                    for idx, row in df.iterrows():
+                        ...
+                        ...
+                        ...
+                return df
               
     Returns:
         Pandas Dataframe containing the results
