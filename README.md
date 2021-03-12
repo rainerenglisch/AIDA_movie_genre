@@ -11,7 +11,7 @@ Naming of Notebooks:
     Prefix 05: Preparation of results
 
     Example:
-    ![Notebook Naming Example](https://github.com/rainerenglisch/AIDA_movie_genre/blob/main/notebook_naming_example.png)
+    <img src="./notebook_naming_example.png">
 
 
 Project Organization
