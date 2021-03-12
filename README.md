@@ -3,6 +3,17 @@ movie_genre
 
 predict genre by movie poster
 
+Naming of Notebooks:
+    Prefix 01: Analysis
+    Prefix 02: Preprocessing
+    Prefix 03: Train-/Test Preparation
+    Prefix 04: Models
+    Prefix 05: Preparation of results
+
+    Example:
+    [![Notebook Naming Example]](notebook_naming_example.png)
+
+
 Project Organization
 ------------
 
