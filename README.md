@@ -11,7 +11,7 @@ Naming of Notebooks:
     Prefix 05: Preparation of results
 
     Example:
-    <img src="./notebook_naming_example.png">
+    <img src="./notebook_naming_example.jpg">
 
 
 Project Organization
