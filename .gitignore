@@ -1,1 +1,5 @@
 data/raw/posters/*
+src/__pycache__/*
+notebooks/.ipynb_checkpoints/*
+src/helper/__pycache__/*
+src/helper/.ipynb_checkpoints/*
