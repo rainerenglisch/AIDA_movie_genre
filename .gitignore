@@ -5,3 +5,4 @@ src/helper/__pycache__/*
 src/helper/.ipynb_checkpoints/*
 data/interim/*.zip
 notebooks/posters_train_v1.zip
+src/helper/secret.py
