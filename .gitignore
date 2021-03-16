@@ -7,3 +7,5 @@ data/interim/*.zip
 notebooks/posters_train_v1.zip
 src/helper/secret.py
 .ipynb_checkpoints/
+data/interim/df_cleaned_v2.gzip
+data/raw/archive/*
