@@ -1,9 +1,19 @@
 SEED = 42
 
+FILE_DIR = "./"
+DATA_DIR_INTERIM = FILE_DIR + "../data/interim/"
+DATA_DIR_RAW = "../data/raw/"
+POSTER_DIR = DATA_DIR_RAW + "posters/"
+
 GENRE_OHE_COLS = [
-  'x0_Action', 'x0_Adventure', 'x0_Animation', 'x0_Comedy',
-  'x0_Crime', 'x0_Documentary', 'x0_Drama', 'x0_Family',
-  'x0_Fantasy','x0_History', 'x0_Horror', 'x0_Music', 'x0_Mystery',
-  'x0_Romance', 'x0_Science Fiction', 'x0_TV Movie', 'x0_Thriller',
-  'x0_War','x0_Western'
+  'Action','Adventure', 'Animation',
+  'Comedy', 'Crime',
+  'Documentary', 'Drama',
+  'Family', 'Fantasy',
+  'History', 'Horror',
+  'Music', 'Mystery',
+  'Romance',
+  'Science Fiction',
+  'TV Movie', 'Thriller',
+  'War', 'Western'
 ]
