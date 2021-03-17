@@ -8,7 +8,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-# Helper function
 def parallelize_dataframe(df: pd.DataFrame, func: object, num_cpu: int = 0) -> pd.DataFrame:
     '''
     Process a dataframe using multiprocessing
