@@ -9,3 +9,5 @@ src/helper/secret.py
 .ipynb_checkpoints/
 data/interim/df_cleaned_v2.gzip
 data/raw/archive/*
+notebooks/.ipynb_checkpoints/*
+src.egg-info/*
