@@ -1,0 +1,2 @@
+model_checkpoint_path: "DenseNet169_1.ckpt"
+all_model_checkpoint_paths: "DenseNet169_1.ckpt"
